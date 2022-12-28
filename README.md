@@ -1,4 +1,4 @@
-# AAHLS_Final
+# AAHLS_Final - Handwritten Number Generation
 
 ## Introduction
 This is the AAHLS Final project Handwritten number generation on PYNQ-Z2, a generator model of generative adversarial network accelerator.
