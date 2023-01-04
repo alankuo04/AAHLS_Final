@@ -14,7 +14,7 @@ activation function, reduce the DSP resource usage.
 + **Kernel_opt3_200MHz** : Set the ZYNQ7 processing system PL clock in 200 MHz
 
 ## Folder structure
-```
+```shell
 AAHLS_Final/
 |--README.md                # Overview of this project
 |--docs/                    # Documentation files
